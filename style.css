@@ -43,6 +43,7 @@ header .menu ul li a{
     font-family: 'Belleza', sans-serif;
     color: #B48C56;
     transition: all 0.3s;
+    
 }
 header .menu ul li a:hover{
     color: #F2D2A3;
